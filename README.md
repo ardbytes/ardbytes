@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arvind
-- 👀 I’m interested in computers, maths, psychology, Indian philosophy, and more
-- 🌱 I’m currently learning and hacking on Replit in my free time
+- 👀 I’m interested in programming and mathematics.
+- 🌱 See my commit history to know what I am working on.
 - 📫 Reach me on twitter (@ardTechNation)
 
 <!---
